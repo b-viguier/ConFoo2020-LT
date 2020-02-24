@@ -1,6 +1,6 @@
 <?php
 
-namespace ForumPhp2019\Slides;
+namespace ConFoo2020\Slides;
 
 use PhPresent\Graphic;
 use PhPresent\Presentation\Frame;

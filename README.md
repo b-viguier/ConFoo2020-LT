@@ -1,10 +1,10 @@
-# ForumPhp2019-LT
+# ConFoo2020-LT
 
-A lightning talk, given at [ForumPhp 2019](https://event.afup.org/),
+A lightning talk, given at [ConFoo 2020](https://confoo.ca/en/yul2020),
 about graphical programming with Php.
 
 Done with [PhPresent](https://github.com/b-viguier/PhPresent).
-[Pdf version available here.](/ForumPhp2019-LT.pdf)
+[Pdf version available here.](/ConFoo2020-LT.pdf)
 
 ## Install
 * Check [PhPresent](https://github.com/b-viguier/PhPresent) requirements.

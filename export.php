@@ -26,4 +26,4 @@ require __DIR__ . '/slides.php';
 
 $screen = Presentation\Screen::fromSizeWithExpectedRatio(Geometry\Size::fromDimensions(1600, 900));
 $exporter = new Adapter\Imagick\Render\PdfExporter();
-$exporter->export($presentation, $screen, $drawer, __DIR__ . '/ForumPhp2019-LT.pdf');
+$exporter->export($presentation, $screen, $drawer, __DIR__ . '/ConFoo2020-LT.pdf');

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c0c3de4b505618d139ab7ceabc0c726e",
+    "content-hash": "053b966ce939ab133a9b5c1878508c85",
     "packages": [
         {
             "name": "bviguier/phpresent",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/b-viguier/PhPresent.git",
-                "reference": "dbcd905ba8ac450c5e1c6d21022ca77cf51b2e4f"
+                "reference": "bcdd4a2231b7872790b5d03ba8ec035c3ac43d03"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/b-viguier/PhPresent/zipball/dbcd905ba8ac450c5e1c6d21022ca77cf51b2e4f",
-                "reference": "dbcd905ba8ac450c5e1c6d21022ca77cf51b2e4f",
+                "url": "https://api.github.com/repos/b-viguier/PhPresent/zipball/bcdd4a2231b7872790b5d03ba8ec035c3ac43d03",
+                "reference": "bcdd4a2231b7872790b5d03ba8ec035c3ac43d03",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                 }
             ],
             "description": "Create and run presentation from Php.",
-            "time": "2019-10-23T20:51:05+00:00"
+            "time": "2019-11-09T19:48:29+00:00"
         }
     ],
     "packages-dev": [],

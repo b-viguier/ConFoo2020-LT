@@ -2,7 +2,7 @@
 
 use PhPresent\Adapter;
 use PhPresent\Graphic;
-use ForumPhp2019\Slides;
+use ConFoo2020\Slides;
 
 $bitmapLoader = new Adapter\Imagick\Graphic\BitmapLoader();
 $bitmapSeqLoader = new Adapter\Imagick\Graphic\BitmapSequenceLoader();
@@ -77,8 +77,8 @@ $presentation
         $bitmapLoader->fromFile(__DIR__.'/assets/php.png')
     ))
     ->addSlide(new Slides\GitRepo(
-        "ForumPhp2019-LT",
-        "https://github.com/b-viguier/ForumPhp2019-LT"
+        "ConFoo2020-LT",
+        "https://github.com/b-viguier/ConFoo2020-LT"
     ))
     ->addSlide(new Slides\BigText("Why\n?!?"))
     ->addSlide(new Slides\Quote(

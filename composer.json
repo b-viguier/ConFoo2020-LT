@@ -1,6 +1,6 @@
 {
-    "name": "bviguier/forum-php2019-lt",
-    "description": "Lightning Talk for ForumPhp 2019",
+    "name": "bviguier/confoo2020-lt",
+    "description": "Lightning Talk for ConFoo 2020",
     "type": "project",
     "require": {
         "php": "^7.2",
@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ForumPhp2019\\": "src/"
+            "ConFoo2020\\": "src/"
         }
     }
 }
